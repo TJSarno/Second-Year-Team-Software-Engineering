@@ -1,0 +1,1412 @@
+[
+    {
+        "country": "afghanistan",
+        "state": "the islamic republic of afghanistan",
+        "a2": "AF",
+        "a3": "AFG",
+        "m49": "004"
+    },
+    {
+        "country": "albania",
+        "state": "the republic of albania",
+        "a2": "AL",
+        "a3": "ALB",
+        "m49": "008"
+    },
+    {
+        "country": "algeria",
+        "state": "the people's democratic republic of algeria",
+        "a2": "DZ",
+        "a3": "DZA",
+        "m49": "012"
+    },
+    {
+        "country": "andorra",
+        "state": "the principality of andorra",
+        "a2": "AD",
+        "a3": "AND",
+        "m49": "020"
+    },
+    {
+        "country": "angola",
+        "state": "the republic of angola",
+        "a2": "AO",
+        "a3": "AGO",
+        "m49": "024"
+    },
+    {
+        "country": "antigua and barbuda",
+        "state": "antigua and barbuda",
+        "a2": "AG",
+        "a3": "ATG",
+        "m49": "028",
+        "aka": [
+            "antigua",
+            "barbuda"
+        ]
+    },
+    {
+        "country": "argentina",
+        "state": "the argentine republic",
+        "a2": "AR",
+        "a3": "ARG",
+        "m49": "032"
+    },
+    {
+        "country": "armenia",
+        "state": "the republic of armenia",
+        "a2": "AM",
+        "a3": "ARM",
+        "m49": "051"
+    },
+    {
+        "country": "australia",
+        "state": "the commonwealth of australia",
+        "a2": "AU",
+        "a3": "AUS",
+        "m49": "036"
+    },
+    {
+        "country": "austria",
+        "state": "the republic of austria",
+        "a2": "AT",
+        "a3": "AUT",
+        "m49": "040"
+    },
+    {
+        "country": "azerbaijan",
+        "state": "the republic of azerbaijan",
+        "a2": "AZ",
+        "a3": "AZE",
+        "m49": "031"
+    },
+    {
+        "country": "bahamas",
+        "state": "the commonwealth of the bahamas",
+        "a2": "BS",
+        "a3": "BHS",
+        "m49": "044",
+        "preceding": "the"
+    },
+    {
+        "country": "bahrain",
+        "state": "the kingdom of bahrain",
+        "a2": "BH",
+        "a3": "BHR",
+        "m49": "048"
+    },
+    {
+        "country": "bangladesh",
+        "state": "the people's republic of bangladesh",
+        "a2": "BD",
+        "a3": "BGD",
+        "m49": "050"
+    },
+    {
+        "country": "barbados",
+        "state": "barbados",
+        "a2": "BB",
+        "a3": "BRB",
+        "m49": "052"
+    },
+    {
+        "country": "belarus",
+        "state": "the republic of belarus",
+        "a2": "BY",
+        "a3": "BLR",
+        "m49": "112"
+    },
+    {
+        "country": "belgium",
+        "state": "the kingdom of belgium",
+        "a2": "BE",
+        "a3": "BEL",
+        "m49": "056"
+    },
+    {
+        "country": "belize",
+        "state": "belize",
+        "a2": "BZ",
+        "a3": "BLZ",
+        "m49": "084"
+    },
+    {
+        "country": "benin",
+        "state": "the republic of benin",
+        "a2": "BJ",
+        "a3": "BEN",
+        "m49": "204"
+    },
+    {
+        "country": "bhutan",
+        "state": "the kingdom of bhutan",
+        "a2": "BT",
+        "a3": "BTN",
+        "m49": "064"
+    },
+    {
+        "country": "bolivia",
+        "state": "the plurinational state of bolivia",
+        "a2": "BO",
+        "a3": "BOL",
+        "m49": "068",
+        "preceding": "plurinational state of"
+    },
+    {
+        "country": "bosnia and herzegovina",
+        "state": "bosnia and herzegovina",
+        "a2": "BA",
+        "a3": "BIH",
+        "m49": "070",
+        "aka": [
+            "bosnia",
+            "herzegovina"
+        ]
+    },
+    {
+        "country": "botswana",
+        "state": "the republic of botswana",
+        "a2": "BW",
+        "a3": "BWA",
+        "m49": "072"
+    },
+    {
+        "country": "brazil",
+        "state": "the federative republic of brazil",
+        "a2": "BR",
+        "a3": "BRA",
+        "m49": "076"
+    },
+    {
+        "country": "brunei darussalam",
+        "state": "the nation of brunei, the abode of peace",
+        "a2": "BN",
+        "a3": "BRN",
+        "m49": "096"
+    },
+    {
+        "country": "bulgaria",
+        "state": "the republic of bulgaria",
+        "a2": "BG",
+        "a3": "BGR",
+        "m49": "100"
+    },
+    {
+        "country": "burkina faso",
+        "state": "burkina faso",
+        "a2": "BF",
+        "a3": "BFA",
+        "m49": "854"
+    },
+    {
+        "country": "burundi",
+        "state": "the republic of burundi",
+        "a2": "BI",
+        "a3": "BDI",
+        "m49": "108"
+    },
+    {
+        "country": "cabo verde",
+        "state": "the republic of cabo verde",
+        "a2": "CV",
+        "a3": "CPV",
+        "m49": "132"
+    },
+    {
+        "country": "cambodia",
+        "state": "the kingdom of cambodia",
+        "a2": "KH",
+        "a3": "KHM",
+        "m49": "116"
+    },
+    {
+        "country": "cameroon",
+        "state": "the republic of cameroon",
+        "a2": "CM",
+        "a3": "CMR",
+        "m49": "120"
+    },
+    {
+        "country": "canada",
+        "state": "canada",
+        "a2": "CA",
+        "a3": "CAN",
+        "m49": "124"
+    },
+    {
+        "country": "central african republic",
+        "state": "the central african republic",
+        "a2": "CF",
+        "a3": "CAF",
+        "m49": "140",
+        "preceding": "the"
+    },
+    {
+        "country": "chad",
+        "state": "the republic of chad",
+        "a2": "TD",
+        "a3": "TCD",
+        "m49": "148"
+    },
+    {
+        "country": "chile",
+        "state": "the republic of chile",
+        "a2": "CL",
+        "a3": "CHL",
+        "m49": "152"
+    },
+    {
+        "country": "china",
+        "state": "the people's republic of china",
+        "a2": "CN",
+        "a3": "CHN",
+        "m49": "156"
+    },
+    {
+        "country": "colombia",
+        "state": "the republic of colombia",
+        "a2": "CO",
+        "a3": "COL",
+        "m49": "170"
+    },
+    {
+        "country": "comoros",
+        "state": "the union of the comoros",
+        "a2": "KM",
+        "a3": "COM",
+        "m49": "174",
+        "preceding": "the"
+    },
+    {
+        "country": "congo",
+        "state": "the democratic republic of the congo",
+        "a2": "CD",
+        "a3": "COD",
+        "m49": "180",
+        "preceding": "the democratic republic of the"
+    },
+    {
+        "country": "congo",
+        "state": "the republic of the congo",
+        "a2": "CG",
+        "a3": "COG",
+        "m49": "178",
+        "preceding": "the"
+    },
+    {
+        "country": "costa rica",
+        "state": "the republic of costa rica",
+        "a2": "CR",
+        "a3": "CRI",
+        "m49": "188"
+    },
+    {
+        "country": "côte d'ivoire",
+        "state": "the republic of côte d'ivoire",
+        "a2": "CI",
+        "a3": "CIV",
+        "m49": "384"
+    },
+    {
+        "country": "croatia",
+        "state": "the republic of croatia",
+        "a2": "HR",
+        "a3": "HRV",
+        "m49": "191"
+    },
+    {
+        "country": "cuba",
+        "state": "the republic of cuba",
+        "a2": "CU",
+        "a3": "CUB",
+        "m49": "192"
+    },
+    {
+        "country": "cyprus",
+        "state": "the republic of cyprus",
+        "a2": "CY",
+        "a3": "CYP",
+        "m49": "196"
+    },
+    {
+        "country": "czechia",
+        "state": "the czech republic",
+        "a2": "CZ",
+        "a3": "CZE",
+        "m49": "203"
+    },
+    {
+        "country": "denmark",
+        "state": "the kingdom of denmark",
+        "a2": "DK",
+        "a3": "DNK",
+        "m49": "208"
+    },
+    {
+        "country": "djibouti",
+        "state": "the republic of djibouti",
+        "a2": "DJ",
+        "a3": "DJI",
+        "m49": "262"
+    },
+    {
+        "country": "dominica",
+        "state": "the commonwealth of dominica",
+        "a2": "DM",
+        "a3": "DMA",
+        "m49": "212"
+    },
+    {
+        "country": "dominican republic",
+        "state": "the dominican republic",
+        "a2": "DO",
+        "a3": "DOM",
+        "m49": "214",
+        "preceding": "the"
+    },
+    {
+        "country": "ecuador",
+        "state": "the republic of ecuador",
+        "a2": "EC",
+        "a3": "ECU",
+        "m49": "218"
+    },
+    {
+        "country": "egypt",
+        "state": "the arab republic of egypt",
+        "a2": "EG",
+        "a3": "EGY",
+        "m49": "818"
+    },
+    {
+        "country": "el salvador",
+        "state": "the republic of el salvador",
+        "a2": "SV",
+        "a3": "SLV",
+        "m49": "222"
+    },
+    {
+        "country": "equatorial guinea",
+        "state": "the republic of equatorial guinea",
+        "a2": "GQ",
+        "a3": "GNQ",
+        "m49": "226"
+    },
+    {
+        "country": "eritrea",
+        "state": "the state of eritrea",
+        "a2": "ER",
+        "a3": "ERI",
+        "m49": "232"
+    },
+    {
+        "country": "estonia",
+        "state": "the republic of estonia",
+        "a2": "EE",
+        "a3": "EST",
+        "m49": "233"
+    },
+    {
+        "country": "eswatini",
+        "state": "the kingdom of eswatini",
+        "a2": "SZ",
+        "a3": "SWZ",
+        "m49": "748"
+    },
+    {
+        "country": "ethiopia",
+        "state": "the federal democratic republic of ethiopia",
+        "a2": "ET",
+        "a3": "ETH",
+        "m49": "231"
+    },
+    {
+        "country": "fiji",
+        "state": "the republic of fiji",
+        "a2": "FJ",
+        "a3": "FJI",
+        "m49": "242"
+    },
+    {
+        "country": "finland",
+        "state": "the republic of finland",
+        "a2": "FI",
+        "a3": "FIN",
+        "m49": "246"
+    },
+    {
+        "country": "france",
+        "state": "the french republic",
+        "a2": "FR",
+        "a3": "FRA",
+        "m49": "250"
+    },
+    {
+        "country": "gabon",
+        "state": "the gabonese republic",
+        "a2": "GA",
+        "a3": "GAB",
+        "m49": "266"
+    },
+    {
+        "country": "gambia",
+        "state": "the republic of the gambia",
+        "a2": "GM",
+        "a3": "GMB",
+        "m49": "270",
+        "preceding": "the"
+    },
+    {
+        "country": "georgia",
+        "state": "georgia",
+        "a2": "GE",
+        "a3": "GEO",
+        "m49": "268"
+    },
+    {
+        "country": "germany",
+        "state": "the federal republic of germany",
+        "a2": "DE",
+        "a3": "DEU",
+        "m49": "276"
+    },
+    {
+        "country": "ghana",
+        "state": "the republic of ghana",
+        "a2": "GH",
+        "a3": "GHA",
+        "m49": "288"
+    },
+    {
+        "country": "greece",
+        "state": "the hellenic republic",
+        "a2": "GR",
+        "a3": "GRC",
+        "m49": "300"
+    },
+    {
+        "country": "grenada",
+        "state": "grenada",
+        "a2": "GD",
+        "a3": "GRD",
+        "m49": "308"
+    },
+    {
+        "country": "guatemala",
+        "state": "the republic of guatemala",
+        "a2": "GT",
+        "a3": "GTM",
+        "m49": "320"
+    },
+    {
+        "country": "guinea",
+        "state": "the republic of guinea",
+        "a2": "GN",
+        "a3": "GIN",
+        "m49": "324"
+    },
+    {
+        "country": "guinea-bissau",
+        "state": "the republic of guinea-bissau",
+        "a2": "GW",
+        "a3": "GNB",
+        "m49": "624"
+    },
+    {
+        "country": "guyana",
+        "state": "the co-operative republic of guyana",
+        "a2": "GY",
+        "a3": "GUY",
+        "m49": "328"
+    },
+    {
+        "country": "haiti",
+        "state": "the republic of haiti",
+        "a2": "HT",
+        "a3": "HTI",
+        "m49": "332"
+    },
+    {
+        "country": "honduras",
+        "state": "the republic of honduras",
+        "a2": "HN",
+        "a3": "HND",
+        "m49": "340"
+    },
+    {
+        "country": "hungary",
+        "state": "hungary",
+        "a2": "HU",
+        "a3": "HUN",
+        "m49": "348"
+    },
+    {
+        "country": "iceland",
+        "state": "iceland",
+        "a2": "IS",
+        "a3": "ISL",
+        "m49": "352"
+    },
+    {
+        "country": "india",
+        "state": "the republic of india",
+        "a2": "IN",
+        "a3": "IND",
+        "m49": "356"
+    },
+    {
+        "country": "indonesia",
+        "state": "the republic of indonesia",
+        "a2": "ID",
+        "a3": "IDN",
+        "m49": "360"
+    },
+    {
+        "country": "iran",
+        "state": "the islamic republic of iran",
+        "a2": "IR",
+        "a3": "IRN",
+        "m49": "364",
+        "preceding": "islamic republic of"
+    },
+    {
+        "country": "iraq",
+        "state": "the republic of iraq",
+        "a2": "IQ",
+        "a3": "IRQ",
+        "m49": "368"
+    },
+    {
+        "country": "ireland",
+        "state": "ireland",
+        "a2": "IE",
+        "a3": "IRL",
+        "m49": "372"
+    },
+    {
+        "country": "israel",
+        "state": "the state of israel",
+        "a2": "IL",
+        "a3": "ISR",
+        "m49": "376"
+    },
+    {
+        "country": "italy",
+        "state": "the italian republic",
+        "a2": "IT",
+        "a3": "ITA",
+        "m49": "380"
+    },
+    {
+        "country": "jamaica",
+        "state": "jamaica",
+        "a2": "JM",
+        "a3": "JAM",
+        "m49": "388"
+    },
+    {
+        "country": "japan",
+        "state": "japan",
+        "a2": "JP",
+        "a3": "JPN",
+        "m49": "392"
+    },
+    {
+        "country": "jordan",
+        "state": "the hashemite kingdom of jordan",
+        "a2": "JO",
+        "a3": "JOR",
+        "m49": "400"
+    },
+    {
+        "country": "kazakhstan",
+        "state": "the republic of kazakhstan",
+        "a2": "KZ",
+        "a3": "KAZ",
+        "m49": "398"
+    },
+    {
+        "country": "kenya",
+        "state": "the republic of kenya",
+        "a2": "KE",
+        "a3": "KEN",
+        "m49": "404"
+    },
+    {
+        "country": "kiribati",
+        "state": "the republic of kiribati",
+        "a2": "KI",
+        "a3": "KIR",
+        "m49": "296"
+    },
+    {
+        "country": "korea",
+        "state": "the democratic people's republic of korea",
+        "a2": "KP",
+        "a3": "PRK",
+        "m49": "408",
+        "preceding": "the democratic people's republic of"
+    },
+    {
+        "country": "korea",
+        "state": "the republic of korea",
+        "a2": "KR",
+        "a3": "KOR",
+        "m49": "410",
+        "preceding": "the republic of"
+    },
+    {
+        "country": "kuwait",
+        "state": "the state of kuwait",
+        "a2": "KW",
+        "a3": "KWT",
+        "m49": "414"
+    },
+    {
+        "country": "kyrgyzstan",
+        "state": "the kyrgyz republic",
+        "a2": "KG",
+        "a3": "KGZ",
+        "m49": "417"
+    },
+    {
+        "country": "lao people's democratic republic",
+        "state": "the lao people's democratic republic",
+        "a2": "LA",
+        "a3": "LAO",
+        "m49": "418",
+        "preceding": "the"
+    },
+    {
+        "country": "latvia",
+        "state": "the republic of latvia",
+        "a2": "LV",
+        "a3": "LVA",
+        "m49": "428"
+    },
+    {
+        "country": "lebanon",
+        "state": "the lebanese republic",
+        "a2": "LB",
+        "a3": "LBN",
+        "m49": "422"
+    },
+    {
+        "country": "lesotho",
+        "state": "the kingdom of lesotho",
+        "a2": "LS",
+        "a3": "LSO",
+        "m49": "426"
+    },
+    {
+        "country": "liberia",
+        "state": "the republic of liberia",
+        "a2": "LR",
+        "a3": "LBR",
+        "m49": "430"
+    },
+    {
+        "country": "libya",
+        "state": "the state of libya",
+        "a2": "LY",
+        "a3": "LBY",
+        "m49": "434"
+    },
+    {
+        "country": "liechtenstein",
+        "state": "the principality of liechtenstein",
+        "a2": "LI",
+        "a3": "LIE",
+        "m49": "438"
+    },
+    {
+        "country": "lithuania",
+        "state": "the republic of lithuania",
+        "a2": "LT",
+        "a3": "LTU",
+        "m49": "440"
+    },
+    {
+        "country": "luxembourg",
+        "state": "the grand duchy of luxembourg",
+        "a2": "LU",
+        "a3": "LUX",
+        "m49": "442"
+    },
+    {
+        "country": "north macedonia",
+        "state": "republic of north macedonia",
+        "a2": "MK",
+        "a3": "MKD",
+        "m49": "807"
+    },
+    {
+        "country": "madagascar",
+        "state": "the republic of madagascar",
+        "a2": "MG",
+        "a3": "MDG",
+        "m49": "450"
+    },
+    {
+        "country": "malawi",
+        "state": "the republic of malawi",
+        "a2": "MW",
+        "a3": "MWI",
+        "m49": "454"
+    },
+    {
+        "country": "malaysia",
+        "state": "malaysia",
+        "a2": "MY",
+        "a3": "MYS",
+        "m49": "458"
+    },
+    {
+        "country": "maldives",
+        "state": "the republic of maldives",
+        "a2": "MV",
+        "a3": "MDV",
+        "m49": "462"
+    },
+    {
+        "country": "mali",
+        "state": "the republic of mali",
+        "a2": "ML",
+        "a3": "MLI",
+        "m49": "466"
+    },
+    {
+        "country": "malta",
+        "state": "the republic of malta",
+        "a2": "MT",
+        "a3": "MLT",
+        "m49": "470"
+    },
+    {
+        "country": "marshall islands",
+        "state": "the republic of the marshall islands",
+        "a2": "MH",
+        "a3": "MHL",
+        "m49": "584",
+        "preceding": "the"
+    },
+    {
+        "country": "mauritania",
+        "state": "the islamic republic of mauritania",
+        "a2": "MR",
+        "a3": "MRT",
+        "m49": "478"
+    },
+    {
+        "country": "mauritius",
+        "state": "the republic of mauritius",
+        "a2": "MU",
+        "a3": "MUS",
+        "m49": "480"
+    },
+    {
+        "country": "mexico",
+        "state": "the united mexican states",
+        "a2": "MX",
+        "a3": "MEX",
+        "m49": "484"
+    },
+    {
+        "country": "micronesia",
+        "state": "the federated states of micronesia",
+        "a2": "FM",
+        "a3": "FSM",
+        "m49": "583",
+        "preceding": "federated states of"
+    },
+    {
+        "country": "moldova",
+        "state": "the republic of moldova",
+        "a2": "MD",
+        "a3": "MDA",
+        "m49": "498",
+        "preceding": "the republic of"
+    },
+    {
+        "country": "monaco",
+        "state": "the principality of monaco",
+        "a2": "MC",
+        "a3": "MCO",
+        "m49": "492"
+    },
+    {
+        "country": "mongolia",
+        "state": "the state of mongolia",
+        "a2": "MN",
+        "a3": "MNG",
+        "m49": "496"
+    },
+    {
+        "country": "montenegro",
+        "state": "montenegro",
+        "a2": "ME",
+        "a3": "MNE",
+        "m49": "499"
+    },
+    {
+        "country": "morocco",
+        "state": "the kingdom of morocco",
+        "a2": "MA",
+        "a3": "MAR",
+        "m49": "504"
+    },
+    {
+        "country": "mozambique",
+        "state": "the republic of mozambique",
+        "a2": "MZ",
+        "a3": "MOZ",
+        "m49": "508"
+    },
+    {
+        "country": "myanmar",
+        "state": "the republic of the union of myanmar",
+        "a2": "MM",
+        "a3": "MMR",
+        "m49": "104"
+    },
+    {
+        "country": "namibia",
+        "state": "the republic of namibia",
+        "a2": "NA",
+        "a3": "NAM",
+        "m49": "516"
+    },
+    {
+        "country": "nauru",
+        "state": "the republic of nauru",
+        "a2": "NR",
+        "a3": "NRU",
+        "m49": "520"
+    },
+    {
+        "country": "nepal",
+        "state": "the federal democratic republic of nepal",
+        "a2": "NP",
+        "a3": "NPL",
+        "m49": "524"
+    },
+    {
+        "country": "netherlands",
+        "state": "the kingdom of the netherlands",
+        "a2": "NL",
+        "a3": "NLD",
+        "m49": "528",
+        "preceding": "the"
+    },
+    {
+        "country": "new zealand",
+        "state": "new zealand",
+        "a2": "NZ",
+        "a3": "NZL",
+        "m49": "554"
+    },
+    {
+        "country": "nicaragua",
+        "state": "the republic of nicaragua",
+        "a2": "NI",
+        "a3": "NIC",
+        "m49": "558"
+    },
+    {
+        "country": "niger",
+        "state": "the republic of the niger",
+        "a2": "NE",
+        "a3": "NER",
+        "m49": "562",
+        "preceding": "the"
+    },
+    {
+        "country": "nigeria",
+        "state": "the federal republic of nigeria",
+        "a2": "NG",
+        "a3": "NGA",
+        "m49": "566"
+    },
+    {
+        "country": "norway",
+        "state": "the kingdom of norway",
+        "a2": "NO",
+        "a3": "NOR",
+        "m49": "578"
+    },
+    {
+        "country": "oman",
+        "state": "the sultanate of oman",
+        "a2": "OM",
+        "a3": "OMN",
+        "m49": "512"
+    },
+    {
+        "country": "pakistan",
+        "state": "the islamic republic of pakistan",
+        "a2": "PK",
+        "a3": "PAK",
+        "m49": "586"
+    },
+    {
+        "country": "palau",
+        "state": "the republic of palau",
+        "a2": "PW",
+        "a3": "PLW",
+        "m49": "585"
+    },
+    {
+        "country": "panama",
+        "state": "the republic of panamá",
+        "a2": "PA",
+        "a3": "PAN",
+        "m49": "591"
+    },
+    {
+        "country": "papua new guinea",
+        "state": "the independent state of papua new guinea",
+        "a2": "PG",
+        "a3": "PNG",
+        "m49": "598"
+    },
+    {
+        "country": "paraguay",
+        "state": "the republic of paraguay",
+        "a2": "PY",
+        "a3": "PRY",
+        "m49": "600"
+    },
+    {
+        "country": "peru",
+        "state": "the republic of perú",
+        "a2": "PE",
+        "a3": "PER",
+        "m49": "604"
+    },
+    {
+        "country": "philippines",
+        "state": "the republic of the philippines",
+        "a2": "PH",
+        "a3": "PHL",
+        "m49": "608",
+        "preceding": "the"
+    },
+    {
+        "country": "poland",
+        "state": "the republic of poland",
+        "a2": "PL",
+        "a3": "POL",
+        "m49": "616"
+    },
+    {
+        "country": "portugal",
+        "state": "the portuguese republic",
+        "a2": "PT",
+        "a3": "PRT",
+        "m49": "620"
+    },
+    {
+        "country": "qatar",
+        "state": "the state of qatar",
+        "a2": "QA",
+        "a3": "QAT",
+        "m49": "634"
+    },
+    {
+        "country": "romania",
+        "state": "romania",
+        "a2": "RO",
+        "a3": "ROU",
+        "m49": "642"
+    },
+    {
+        "country": "russian federation",
+        "state": "the russian federation",
+        "a2": "RU",
+        "a3": "RUS",
+        "m49": "643",
+        "preceding": "the"
+    },
+    {
+        "country": "rwanda",
+        "state": "the republic of rwanda",
+        "a2": "RW",
+        "a3": "RWA",
+        "m49": "646"
+    },
+    {
+        "country": "saint kitts and nevis",
+        "state": "saint kitts and nevis",
+        "a2": "KN",
+        "a3": "KNA",
+        "m49": "659",
+        "aka": [
+            "saint kitts",
+            "nevis"
+        ]
+    },
+    {
+        "country": "saint lucia",
+        "state": "saint lucia",
+        "a2": "LC",
+        "a3": "LCA",
+        "m49": "662"
+    },
+    {
+        "country": "saint vincent and the grenadines",
+        "state": "saint vincent and the grenadines",
+        "a2": "VC",
+        "a3": "VCT",
+        "m49": "670",
+        "aka": [
+            "saint vincent",
+            "the grenadines"
+        ]
+    },
+    {
+        "country": "samoa",
+        "state": "the independent state of samoa",
+        "a2": "WS",
+        "a3": "WSM",
+        "m49": "882"
+    },
+    {
+        "country": "san marino",
+        "state": "the republic of san marino",
+        "a2": "SM",
+        "a3": "SMR",
+        "m49": "674"
+    },
+    {
+        "country": "sao tome and principe",
+        "state": "the democratic republic of são tomé and príncipe",
+        "a2": "ST",
+        "a3": "STP",
+        "m49": "678",
+        "aka": [
+            "sao tome",
+            "principe"
+        ]
+    },
+    {
+        "country": "saudi arabia",
+        "state": "the kingdom of saudi arabia",
+        "a2": "SA",
+        "a3": "SAU",
+        "m49": "682"
+    },
+    {
+        "country": "senegal",
+        "state": "the republic of senegal",
+        "a2": "SN",
+        "a3": "SEN",
+        "m49": "686"
+    },
+    {
+        "country": "serbia",
+        "state": "the republic of serbia",
+        "a2": "RS",
+        "a3": "SRB",
+        "m49": "688"
+    },
+    {
+        "country": "seychelles",
+        "state": "the republic of seychelles",
+        "a2": "SC",
+        "a3": "SYC",
+        "m49": "690"
+    },
+    {
+        "country": "sierra leone",
+        "state": "the republic of sierra leone",
+        "a2": "SL",
+        "a3": "SLE",
+        "m49": "694"
+    },
+    {
+        "country": "singapore",
+        "state": "the republic of singapore",
+        "a2": "SG",
+        "a3": "SGP",
+        "m49": "702"
+    },
+    {
+        "country": "slovakia",
+        "state": "the slovak republic",
+        "a2": "SK",
+        "a3": "SVK",
+        "m49": "703"
+    },
+    {
+        "country": "slovenia",
+        "state": "the republic of slovenia",
+        "a2": "SI",
+        "a3": "SVN",
+        "m49": "705"
+    },
+    {
+        "country": "solomon islands",
+        "state": "the solomon islands",
+        "a2": "SB",
+        "a3": "SLB",
+        "m49": "090"
+    },
+    {
+        "country": "somalia",
+        "state": "the federal republic of somalia",
+        "a2": "SO",
+        "a3": "SOM",
+        "m49": "706"
+    },
+    {
+        "country": "south africa",
+        "state": "the republic of south africa",
+        "a2": "ZA",
+        "a3": "ZAF",
+        "m49": "710"
+    },
+    {
+        "country": "south sudan",
+        "state": "the republic of south sudan",
+        "a2": "SS",
+        "a3": "SSD",
+        "m49": "728"
+    },
+    {
+        "country": "spain",
+        "state": "the kingdom of spain",
+        "a2": "ES",
+        "a3": "ESP",
+        "m49": "724"
+    },
+    {
+        "country": "sri lanka",
+        "state": "the democratic socialist republic of sri lanka",
+        "a2": "LK",
+        "a3": "LKA",
+        "m49": "144"
+    },
+    {
+        "country": "sudan",
+        "state": "the republic of the sudan",
+        "a2": "SD",
+        "a3": "SDN",
+        "m49": "729",
+        "preceding": "the"
+    },
+    {
+        "country": "suriname",
+        "state": "the republic of suriname",
+        "a2": "SR",
+        "a3": "SUR",
+        "m49": "740"
+    },
+    {
+        "country": "sweden",
+        "state": "the kingdom of sweden",
+        "a2": "SE",
+        "a3": "SWE",
+        "m49": "752"
+    },
+    {
+        "country": "switzerland",
+        "state": "the swiss confederation",
+        "a2": "CH",
+        "a3": "CHE",
+        "m49": "756"
+    },
+    {
+        "country": "syrian arab republic",
+        "state": "the syrian arab republic",
+        "a2": "SY",
+        "a3": "SYR",
+        "m49": "760",
+        "preceding": "the"
+    },
+    {
+        "country": "tajikistan",
+        "state": "the republic of tajikistan",
+        "a2": "TJ",
+        "a3": "TJK",
+        "m49": "762"
+    },
+    {
+        "country": "tanzania",
+        "state": "the united republic of tanzania",
+        "a2": "TZ",
+        "a3": "TZA",
+        "m49": "834",
+        "preceding": "the united republic of"
+    },
+    {
+        "country": "thailand",
+        "state": "the kingdom of thailand",
+        "a2": "TH",
+        "a3": "THA",
+        "m49": "764"
+    },
+    {
+        "country": "timor-leste",
+        "state": "the democratic republic of timor-leste",
+        "a2": "TL",
+        "a3": "TLS",
+        "m49": "626"
+    },
+    {
+        "country": "togo",
+        "state": "the togolese republic",
+        "a2": "TG",
+        "a3": "TGO",
+        "m49": "768"
+    },
+    {
+        "country": "tonga",
+        "state": "the kingdom of tonga",
+        "a2": "TO",
+        "a3": "TON",
+        "m49": "776"
+    },
+    {
+        "country": "trinidad and tobago",
+        "state": "the republic of trinidad and tobago",
+        "a2": "TT",
+        "a3": "TTO",
+        "m49": "780",
+        "aka": [
+            "trinidad",
+            "tobago"
+        ]
+    },
+    {
+        "country": "tunisia",
+        "state": "the republic of tunisia",
+        "a2": "TN",
+        "a3": "TUN",
+        "m49": "788"
+    },
+    {
+        "country": "turkey",
+        "state": "the republic of turkey",
+        "a2": "TR",
+        "a3": "TUR",
+        "m49": "792"
+    },
+    {
+        "country": "turkmenistan",
+        "state": "turkmenistan",
+        "a2": "TM",
+        "a3": "TKM",
+        "m49": "795"
+    },
+    {
+        "country": "tuvalu",
+        "state": "tuvalu",
+        "a2": "TV",
+        "a3": "TUV",
+        "m49": "798"
+    },
+    {
+        "country": "uganda",
+        "state": "the republic of uganda",
+        "a2": "UG",
+        "a3": "UGA",
+        "m49": "800"
+    },
+    {
+        "country": "ukraine",
+        "state": "ukraine",
+        "a2": "UA",
+        "a3": "UKR",
+        "m49": "804"
+    },
+    {
+        "country": "united arab emirates",
+        "state": "the united arab emirates",
+        "a2": "AE",
+        "a3": "ARE",
+        "m49": "784",
+        "preceding": "the"
+    },
+    {
+        "country": "united kingdom of great britain and northern ireland",
+        "state": "the united kingdom of great britain and northern ireland",
+        "a2": "GB",
+        "a3": "GBR",
+        "m49": "826",
+        "preceding": "the",
+        "aka": [
+            "northern ireland",
+            "united kingdom",
+            "great britain"
+        ]
+    },
+    {
+        "country": "united states of america",
+        "state": "the united states of america",
+        "a2": "US",
+        "a3": "USA",
+        "m49": "840",
+        "preceding": "the",
+        "aka": [
+            "united states",
+            "america"
+        ]
+    },
+    {
+        "country": "uruguay",
+        "state": "the oriental republic of uruguay",
+        "a2": "UY",
+        "a3": "URY",
+        "m49": "858"
+    },
+    {
+        "country": "uzbekistan",
+        "state": "the republic of uzbekistan",
+        "a2": "UZ",
+        "a3": "UZB",
+        "m49": "860"
+    },
+    {
+        "country": "vanuatu",
+        "state": "the republic of vanuatu",
+        "a2": "VU",
+        "a3": "VUT",
+        "m49": "548"
+    },
+    {
+        "country": "venezuela",
+        "state": "the bolivarian republic of venezuela",
+        "a2": "VE",
+        "a3": "VEN",
+        "m49": "862",
+        "preceding": "bolivarian republic of"
+    },
+    {
+        "country": "vietnam",
+        "state": "the socialist republic of vietnam",
+        "a2": "VN",
+        "a3": "VNM",
+        "m49": "704"
+    },
+    {
+        "country": "yemen",
+        "state": "the republic of yemen",
+        "a2": "YE",
+        "a3": "YEM",
+        "m49": "887"
+    },
+    {
+        "country": "zambia",
+        "state": "the republic of zambia",
+        "a2": "ZM",
+        "a3": "ZMB",
+        "m49": "894"
+    },
+    {
+        "country": "zimbabwe",
+        "state": "the republic of zimbabwe",
+        "a2": "ZW",
+        "a3": "ZWE",
+        "m49": "716"
+    }
+]
